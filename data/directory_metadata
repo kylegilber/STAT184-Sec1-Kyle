@@ -1,0 +1,9 @@
+Directory contains two files:
+  1) computations_d1
+  2) berkeley_dataset
+
+berkeley_dataset contains major, gender, and admission status for
+UC Berkeley applicants in the year 1973.
+
+The computations_d1 qmd file contains a tutorial for learning how to
+style a Quarto document.
